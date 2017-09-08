@@ -1,7 +1,7 @@
 # system_stats
-# python3
+## python3
 
-Scripts to monitor and collect stats on remote Unix-based systems
+### Scripts to monitor and collect stats on remote Unix-based systems
 
 Run /database.sql to create required DB, tables and users
 Add configuration credentials for database, SMTP server and clients on /conf.xml
