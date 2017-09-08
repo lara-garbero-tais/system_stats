@@ -5,7 +5,7 @@
 
 Run /database.sql to create required DB, tables and users
 
-Add configuration credentials for database, SMTP server and clients on /conf.xml
+Add configuration credentials for database, SMTP server and clients on /config.xml
 
 Run /server.py to deploy /client.py to all clients and collect system stats in configured database
 
