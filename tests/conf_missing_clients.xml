@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<database host='localhost' username='ltais' password='asd101' db='clientstats' />
+<smtp server='smtp.gmail.com' port='587' username='ltais.test' password='dfgh3456' />
+</config>
